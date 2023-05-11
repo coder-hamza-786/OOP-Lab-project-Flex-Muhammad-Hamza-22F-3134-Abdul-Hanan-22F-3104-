@@ -1,0 +1,40 @@
+002
+Hamza786.
+Muhammad Hamza
+SC
+09-08-2023
+70000
+Male
+0324-2334234
+BS(CS)
+Sargodha
+003
+Husnain786.
+Husnain Khalid
+CS
+09-02-2022
+250000
+Male
+0324-3442553
+BS(CS)
+Looneywala
+007
+Hanan786.
+Abdul Hanan
+SE
+02-09-2020
+200000
+Male
+0323-3432353
+BS(CS),MS(CS)
+Jorabad
+003
+Ghussa
+Muscle man
+EE
+07-08-2023
+75000
+Male
+0324-4342342
+BS(EE)
+Twada ghar

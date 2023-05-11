@@ -1,0 +1,20 @@
+Jorabad logged in.
+Jorabad checked time table.
+Jorabad checked attendance.
+Jorabad logged out.
+Hanan Manan logged in.
+Hanan Manan checked time table.
+Hanan Manan marked attendance.
+Hanan Manan checked attendance.
+Hanan Manan logged out.Jorabad logged in.
+Jorabad checked time table.
+Jorabad checked attendance.
+Jorabad marked quizzez.
+Jorabad logged out.
+Muhammad Hamza logged in.
+Muhammad Hamza assigned grades.
+Muhammad Hamza logged out.
+BS(EE) logged in.
+BS(EE) checked time table.
+BS(EE) checked attendance.
+BS(EE) logged out.

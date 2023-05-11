@@ -1,0 +1,36 @@
+001
+Hamza786.
+Muhammad Hamza
+CS
+09-08-2023
+Male
+0324-3545454
+B+
+P
+ICS(Pre-Engeenering)
+79.7
+Looneywala
+002
+Hanan786.
+Abdul Hanan
+B
+09-08-2022
+Male
+0324-3435322
+B+
+P
+FSc(Pre-Engeenering)
+78.2
+Jourabad
+003
+Halla
+Hulla Duhai
+CS
+07-06-2021
+Male
+0324-4545334
+B+
+P
+FSc(Pre-Engeenering)
+67.8
+Ghar chal phir batata hoon

@@ -1,0 +1,24 @@
+001
+Lecture no.1:	08:45	to	10:15	PF	 on	Monday
+Lecture no.2:	08:45	to	10:15	PF	 on	Wednesday
+Lecture no.3:	10:15	to	11:45	OOP	 on	Tuesday
+Lecture no.4:	03:15	to	04:45	OOP	 on	Thursday
+Lecture no.5:	01:45	to	03:15	PF	 on	Thursday
+002
+Lecture no.1:	08:45	to	10:15	Eng(Lab)	 on Monday
+Lecture no.2:	11:45	to	01:15	Eng(Lab)	 on Monday
+Lecture no.3:	10:15	to	11:45	English	 on Wednesday
+Lecture no.4:	3:15	to	04:45	English	 on Monday
+No Lecture
+003
+Lecture no.1:	08:45	to	10:15	PF	 on Monday
+Lecture no.2:	08:45	to	10:15	OOP	 on Tuesday
+Lecture no.3:	11:45	to	01:15	NC	on Tuesday
+No Lecture
+No Lecture
+007
+Lecture no. 1:	01:45	to	03:15	PF	on Monday
+Lecture no. 2:	03:15	to	04:45	OOP	 on Monday
+Lecture no. 3:	01:45	to	03:15	Calculus	on Wednesday
+No Lecture
+No Lecture
