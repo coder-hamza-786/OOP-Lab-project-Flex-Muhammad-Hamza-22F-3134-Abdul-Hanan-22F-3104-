@@ -16,7 +16,7 @@ int main()
 	while (true) {
 		//Menu driven program
 		system("color 3");
-		cout << "\n\n\t\t\t\t\t\tWelcome to Flex";
+		cout << "\n\n\t\t\t\t\tWelcome to Flex Management System";
 		cout << "\n\n1.Administrator" << endl;
 		cout << "2.Teacher" << endl;
 		cout << "3.Student" << endl;
@@ -125,10 +125,11 @@ int main()
 		else if (choice == 2) {
 			Login log_in;
 			Teacher obj;
-			
+
 			log_in.login(choice);
 
 			while (choice) {
+				system("color B");
 				//Options for teachers
 				cout << "1. Check your time table" << endl;
 				cout << "2. Marking attandance" << endl;
@@ -255,7 +256,7 @@ int main()
 				}
 				//function for checking time table of the teacher logged in
 				else if (choice == 3) {
-					obj.check_time_table();
+					obj.get_teacher_timetable();
 					system("cls");
 				}
 				//function for checking activities of teacher
