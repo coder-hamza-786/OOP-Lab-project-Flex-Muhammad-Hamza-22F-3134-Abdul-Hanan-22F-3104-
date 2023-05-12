@@ -12,7 +12,7 @@
 string go_back;
 string go_back_HOD;
 string go_back_teacher;
-string go_back_student;;
+string go_back_student;
 string id, password;
 
 //defined these cources for every other student because everyone will be of 22nd batch
